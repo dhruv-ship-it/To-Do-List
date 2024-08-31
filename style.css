@@ -123,7 +123,8 @@ ul li span:hover{
 }
 
 @media (max-width:460px) {
-    button{
+    input{
+        width: 100%;
     }
     
 }
